@@ -39,7 +39,7 @@ export default function WeatherSearch() {
       <button type="Submit" className="btn btn-primary">
         Search
       </button>
-      <button type="Submit" className="btn btn-success">
+      <button type="Submit" className="btn btn-warning">
         Current
       </button>
     </form>
